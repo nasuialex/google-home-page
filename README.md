@@ -1,3 +1,3 @@
 # google-home-page
 
- I love :google:
+ I love 
