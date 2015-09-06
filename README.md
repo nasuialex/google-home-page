@@ -4,4 +4,4 @@
   
   
   
-  < aria-hidden="true" style="display: none !important;"></iframe></body>
+  src="/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
