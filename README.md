@@ -1,3 +1,3 @@
 # google-home-page
 
- I love :cofee:  :pizza:  :dancer:.
+ I love :coffee:  :pizza:  :dancer:.
